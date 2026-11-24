@@ -9,6 +9,7 @@ public class Main {
 
         Scanner scan = new Scanner(System.in);
 
+
         int n = 5;
         Student[] students = new Student[n];
 
